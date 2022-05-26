@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+C:\Users\student\source\repos\terminal\terminal\Source1.cpp(21,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  terminal.vcxproj -> C:\Users\student\source\repos\terminal\x64\Debug\terminal.exe
